@@ -1,0 +1,15 @@
+{
+  "name": "practice-bot",
+  "version": "0.0.1",
+  "description": "just a bot i decided to make",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BetaNinja",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2"
+  }
+}
